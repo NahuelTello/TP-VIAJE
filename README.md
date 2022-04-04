@@ -6,3 +6,4 @@ Realice la implementación de la clase Viaje e implemente los métodos necesario
 Implementar un script testViaje.php que cree una instancia de la clase Viaje y presente un menú que permita cargar la información del viaje, modificar y ver sus datos.
 
 # Matias Nahuel Tello Parra FAI 2904
+Correo Institucional: matias.tello@est.fi.uncoma.edu.ar
