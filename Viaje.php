@@ -258,7 +258,7 @@ class Viaje{
 
                 case 3:
                     echo "Ingrese el nuevo dni: \n";
-                    $nuevoDni = intval(trim(fgets(STDIN)));
+                    $nuevoDni = trim(fgets(STDIN));
                     $objPasajero->setDni($nuevoDni);
                     break;
 
